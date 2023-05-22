@@ -3,6 +3,7 @@
  
 ## Links e Sources
 -PHP_Course - https://www.youtube.com/watch?v=BUCiSSyIGGU&ab_channel=TraversyMedia
+-Python_Course - https://www.youtube.com/watch?v=JJmcL1N2KQs&list=LL&index=1&ab_channel=TraversyMedia
 
 ## Softwares/extensões usados
 - VSCode IDE
